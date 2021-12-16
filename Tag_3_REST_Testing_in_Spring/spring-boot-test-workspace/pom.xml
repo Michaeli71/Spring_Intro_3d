@@ -17,9 +17,6 @@
         <module>ex06-spring-boot-rest-client-template</module>
         <module>ex07-spring-boot-unit-tests</module>
         <module>ex07-spring-boot-unit-tests-template</module>
-
-		<module>gs-testing-web-complete</module>	
-        <module>gs-testing-web-initial</module> 
         <module>spring-boot-slides-testing</module>       
     </modules>
 									
